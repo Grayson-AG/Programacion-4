@@ -1,0 +1,5 @@
+id_venta,fecha_hora,producto,precio_u,cantidad,total
+1,2026-11-18 17:46:56,Whey Protein 5 lbs.,1500.0,1,1500.0
+2,2026-11-18 17:47:05,Whey Protein 5 lbs.,1500.0,1,1500.0
+3,2026-11-18 17:54:01,Barras de proteina,25.0,1,25.0
+4,2026-11-18 17:54:03,Barras de proteina,25.0,1,25.0
